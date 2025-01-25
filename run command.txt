@@ -1,0 +1,3 @@
+run this command in Powershell
+
+irm https://get.activated.win | iex
